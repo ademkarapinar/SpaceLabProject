@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6296" started-at="2021-01-11T19:08:29 EST" finished-at="2021-01-11T19:08:35 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6296" started-at="2021-01-11T19:08:29 EST" finished-at="2021-01-11T19:08:35 EST">
+      <class name="com.qa.spaceLabs.test.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.spaceLabs.test.HomePageTest@4ef27d66]" name="setUp" is-config="true" duration-ms="4811" started-at="2021-01-11T19:08:29 EST" finished-at="2021-01-11T19:08:33 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sendKeyToSearchButtonTest()[pri:1, instance:com.qa.spaceLabs.test.HomePageTest@4ef27d66]" name="sendKeyToSearchButtonTest" duration-ms="1334" started-at="2021-01-11T19:08:33 EST" finished-at="2021-01-11T19:08:35 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendKeyToSearchButtonTest -->
+      </class> <!-- com.qa.spaceLabs.test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
